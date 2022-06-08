@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @parodimatias
-- 👀 I’m interested in web development, science and engineering
-- 🌱 I’m currently learning React and improving skills with NodeJS and Typescript
-- 💞️ I’m looking to collaborate on open source projects with these technologies
+- 👀 I’m interested in software development, science and engineering
 - 📫 How to reach me: matias.parodi@outlook.com
 
 <!---
